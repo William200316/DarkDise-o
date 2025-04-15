@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ejemplo1</title>
+</head>
+<body>
+    <h1>Mi primera pagina con HTML</h1>
+
+    <hr>
+
+    <h2></h2>Ejemplos HTML</H2>
+    <h2 style ="color: blue"> parrafo 1. creando un parrafo </h2>
+     <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dignissimos nostrum optio voluptates modi nam. 
+        Earum illo incidunt alias. Veniam aperiam officiis, qui delectus ullam sint sequi minima praesentium fuga similique.</p>
+     <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Provident, ex ad ea dignissimos hic quam sed eum 
+        veniam dolore quis vel consectetur, asperiores repellat quae commodi, consequatur omnis unde fugit.</p>
+     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa molestias sit officiis sequi laborum dolor rem quis sed quia 
+        dolorum repudiandae fugiat sapiente autem nesciunt suscipit ratione quod, dolores ea.
+     Illum sint veniam dolorem quaerat eius inventore veritatis illo eum quia doloribus perspiciatis esse ullam,
+      recusandae eveniet voluptatum culpa quisquam quasi hic odit! Dolor, vero aliquam quos similique magni asperiores.
+     Illo neque, nobis quis laborum tempore ex exercitationem suscipit quos dolore ab modi libero 
+     asperiores qui incidunt explicabo in sed? Quod est laborum repellendus fuga inventore temporibus 
+     numquam dignissimos quia.
+     Neque unde ratione reprehenderit? Dolorum incidunt facere laboriosam dolorem id magni, quibusdam 
+     natus distinctio officiis est culpa, nam exercitationem odio magnam ullam perspiciatis doloribus nesciunt tempora quae asperiores eveniet deserunt!
+     Nesciunt expedita molestias officia animi ipsam dicta adipisci ut, ducimus fugit voluptatem, atque 
+     cumque, unde nam laborum laboriosam. At natus necessitatibus ea consequatur atque maxime tempore
+      expedita reprehenderit incidunt nulla!
+     Eveniet nam veniam sapiente, sit debitis vitae vero quasi. Voluptatem ipsam sequi enim quos excepturi 
+     optio repellendus deleniti iusto aperiam eligendi, rem voluptas qui, error eos itaque nostrum? Quam, repudiandae.
+     Ea earum impedit sunt at consequatur unde aperiam minus, dolor natus excepturi doloribus vitae omnis dolore non 
+     necessitatibus officia quaerat ipsum fugit eos suscipit a, iure obcaecati molestias. Alias, dolor?
+     Magni laudantium non earum! Vitae ipsa sit doloremque ipsum, nostrum in nemo. Voluptatibus rem quisquam 
+     sapiente repellendus quasi deserunt deleniti, accusamus iste ducimus quas iusto ad ex est reprehenderit expedita.
+     Expedita nemo unde voluptatem voluptatibus animi alias sit ut hic officiis? Nisi eos unde deleniti corporis
+      recusandae in dolorum harum, odit, animi laudantium similique quos dolorem doloremque error sequi magni.
+     Suscipit temporibus nobis, similique natus aliquam culpa eligendi saepe tempora necessitatibus odio, possimus
+      mollitia dolor, qui explicabo? Accusamus quo quibusdam provident corporis maiores asperiores similique, facilis beatae consectetur, omnis aliquam.</p>
+
+      <h2 style ="color: blue;">02. Creando citas </h2>
+      <p>
+      La autora del libro declarò la rueda de prensa
+      </p>
+      <blockquote>
+            A pesar de lo que muchos piensan, el libro no es autobiogràfico
+      </blockquote>
+      <p> La autora del libro asegura que  "no es autobiogràfico" aunque podrìa encajar en la mayor parte de mi vida </p>
+
+      <h2 style ="color: blue;">04. Creando citas </h2>
+
+      <h3>Listas ordenadas</h3>
+        <ol>
+            <li>Perù</li>
+            <li>Canadà</li>
+            <li>España</li>
+           <li>Australia</li>
+        </ol>
+      
+
+      <h3>Listas sin ordenadas</h3>
+        <ul>
+            <li>Perù</li>
+            <li>Canadà</li>
+            <li>España</li>
+           <li>Australia</li>
+        </ul>
+
+
+       <h3>Listas de definiciones</h3>
+        <dl>
+            <dl>
+                <dt>Peru</dt>
+                <dd>Pais de america del sur</dd>
+                <dt>Canada</dt>
+                <dd>pais de america del norte</dd>
+                <dt>España</dt>
+                <dd>Pais de europa</dd>
+                <dt>Australia</dt>
+                <dd>Pais de oceania</dd>
+            </dl>
+            <h2 style ="color: blue"> 05. creando un parrafo </h2>
+
+            <P> <b>EL AGUA:</b> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Es <u> un compuesto</u> que se forma a partir de la union, mediante <i>enlaces covalentes </i>, de dos átomos de hidrógeno y uno de oxígeno; su forma molecular es H <sub> 2</sub>O y se trata de una molécula muy estable. su densidad es 997 kg/m <sup>3</sup>.<s>Desperdiciar el agua</s>. No se debe desperdiciar el agua.
+            </P>
+ 
+</body>
+</html>
